@@ -119,10 +119,10 @@ Each world tier unlocks the ability for higher tier mob bosses to spawn and thus
 
 <hr/>
 
-To find the items in the blacklist for both the Replicator Mk1 and the Replicator, search the following for the two blacklists in EMI respectively:
+To find the items in the blacklist for both the Replicator Mk1 and the Replicator Mk2, search the following for the two blacklists in EMI respectively:
 
-- #replicator_blacklist for Replicator
-- #replicator_1_blacklist for Mk1 Replicator
+- #replicator_1_blacklist for Replicator Mk1
+- #replicator_blacklist for Replicator Mk2
 
 <hr/>
 
