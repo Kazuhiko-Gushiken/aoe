@@ -206,8 +206,14 @@ You'll need to use the power of commands for this one.
 - `ftbessentials.tpa.cooldown` This uses an integer (seconds) for `<value>`
 - `ftbessentials.rtp.cooldown` This uses an integer (seconds) for `<value>`
 
+<hr/>
+
 ## Quest have a *gray* question mark and cannot be completed, even though all dependencies have been finished?
 This is a common bug with the mod FTBQuests. In the latest versions, we've disabled the ability to "finish" a quest before it's unlocked to prevent this issue, but if you've already pre-competed a quest, you might need to forcefully complete (or reset) the quest using level 2 Operator commands.
 
 If you have the ability to do so, enter your FTBQuests screen, locate the quest you'd like to reset, enter "Edit Mode" by pressing on the pencil button in the bottom right corner of the screen, then **Right-Click** on the desired quest, and press **Reset Progress**.
 If you need to reset the progress of someone else's quest, enter your FTBQuests screen, locate the quest you'd like to reset, enter "Edit Mode" by pressing on the pencil button in the bottom right corner of the screen, then **Right-Click** on the desired quest, and press **Copy ID**. Then run the command: `/ftbquests change_progress <IGN> reset <Quest ID>`
+
+<hr/>
+
+
