@@ -90,7 +90,8 @@ For AOF7, AOF6, AOF5:
 
 <hr/>
 
-# High-Pressure Steam Loop![:](https://innx.dev/images/HP_steam_setup.png)
+# High-Pressure Steam Loop
+![:](https://innx.dev/images/HP_steam_setup_disclaimer.png)
 
 <hr/>
 
