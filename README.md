@@ -217,4 +217,10 @@ If you need to reset the progress of someone else's quest, enter your FTBQuests 
 
 <hr/>
 
+## Blank, Missing, or Invisible GUI/UI (Example Shaders, Building Gadget, etc.)
+
+You may have come into a bug with the menu background blur. Enter your `Accessability Settings` and locate `Menu Background Blur` and disable it. The GUI should show up now.
+
+<hr/>
+
 
