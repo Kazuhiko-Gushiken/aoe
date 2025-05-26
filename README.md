@@ -75,9 +75,11 @@ Specifically for the pack **Craftoria**, using the *Flux Transformer* you can co
 
 <hr/>
 
-The Essential Mod is known to cause incompatibilities with mods in the pack (possibly due to the requirement of Sinytra Connector) and is full of bloat and microtransactions. The mod is also closed source, so no one exactly knows what's going on under the hood.
+## Looking for a method to play with friends without needing to pay?
 
-Our recommended mod for self hosting servers *without* the need for port forwarding is [e4mc](<https://modrinth.com/mod/e4mc>). With this mod, your "Open to Lan" button becomes a "Start Server" button and is only needed to be installed on the side that becomes the host. It's simple, safe, and performant.
+### There are two common methods:
+- First is the Essential Mod, which is known to cause incompatibilities with mods in the pack (possibly due to the requirement of Sinytra Connector) and is full of bloat and microtransactions. The mod is also closed source, so no one exactly knows what's going on under the hood. So we don't actually recommend you attempt to use this, despite is overwhelming popularity.
+- Second is [e4mc](<https://modrinth.com/mod/e4mc>). This is our recommended mod for self hosting servers *without* the need for port forwarding. With this mod, your "Open to Lan" button becomes a "Start Server" button and is only needed to be installed on the side that becomes the host. It's simple, and performant. **Disclaimer: You have no access to whitelist or any other security measures. These servers can be found, accessed, and destroyed by malicious actors if you are not careful.** Obviously, this means only host the world *while* you are actively playing and engaged. Do **not** AFK for long periods of time. **If** someone you don't recognize accesses your world, quickly close the server, backup your world, and reset your private IP address (methods include rebooting the router). You should be safe to re-host as the original IP the bad actor had will not correspond to your network anymore.
 
 <hr/>
 
