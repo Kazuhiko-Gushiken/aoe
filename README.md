@@ -229,4 +229,26 @@ You may have come into a bug with the menu background blur. Enter your `Accessab
 
 <hr/>
 
+## How much memory does your server need?
+It depends on a few factors. Most notably:
+- Number of players
+- Play styles
+- Number of bases (any teams?)
+- The lowest TPS *you* can tolerate.
+
+For about 10 players, actively playing, matching player for gig (10gb) would most likely keep you good on TPS for a bit until the big bases come along. *Although* unoptimized, laggy bases can tank a server's TPS alone, so do ensure that you aren't allowing that.
+
+Playstyles means: How do the players plan to build their bases and setups? Unoptimized ones using entity based farms, or a lot of tick accelerating can cause a considerable amount of lag, but more optimized ones may fly right under the TPS radar.
+
+The number of bases really just tells you how many different instances of crap there will be running at the same time. If all 10 people run one base, 10 gigs will get you far. If they split into 5 teams of 2, then maybe not *as* much.
+
+High TPS (no lag) is fantastic, but getting dips in TPS is common when you're playing Modded Minecraft. Most can get used to 15 TPS, and others (with time) can get used to 10 TPS or lower, though it can be a little annoying at times.
+
+Extrapolate the 1 gig per 1 player and factor in the rest of the variables. More bases? More ram. Less Optimized? More ram.
+
+For example, the public servers have about 16GB of ram, but once it gets up to 30 people, it can lag really badly (especially now that everyone's bases are big and complex). But sometimes, even 5 people with HUGE bases can start tanking the TPS, even if there isn't one singular thing that is laggy.
+
+If you can, start at 10 for most servers (unless you only have 2 or 3 players on at a time, then lower it to 6-8). If you need, add more.
+
+<hr/>
 
