@@ -67,9 +67,9 @@ The website `craftoria.net` is **not** owned or run by us and we do not affiliat
 
 <hr/>
 
-The *direct* power conversion rate between all the different types is the following:
+The *direct* default power conversion rate between all the different types is the following:
 
-1 E/t  : 1 LF/t :  1 FE/t : 1🗲/t : 1 EU/t : 2 AE/t : 2.5 J/t
+1 E/t  : 1 LF/t :  1 FE/t : 1🗲/t : 10 EU/t : 2 AE/t : 2.5 J/t
 
 Specifically for the pack **Craftoria**, using the *Flux Transformer* you can convert EU to FE in the conversion 1 EU/t : 50 FE/t one way. Connecting the EU Cable *directly* into anything run by FE will be a 1 EU/t : 10 FE/t.
 
